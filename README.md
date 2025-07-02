@@ -1,10 +1,7 @@
-# OUR-ANNIV
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ANNIVERSARY</title>
   <link rel="icon" type="image/png" href="Ape kau tengok-tengok.png"/>
   <link rel="stylesheet" href="apayh1.css"/>
 </head>
@@ -129,7 +126,6 @@
         </div>
         <div class="backdrop"></div>
     </div>
-    </div>
-  <script src="apayh2.js"></script>
+  </div>
 </body>
 </html>
